@@ -16,6 +16,7 @@ sudo dpkg -i hiawatha_9.15_amd64.deb
 cd ..
 
 sudo apt-get install postgresql
+sudo apt-get install postgis
 sudo apt-get install php5-intl
 sudo apt-get install php5-gd
 sudo apt-get install texlive
