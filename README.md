@@ -1,4 +1,4 @@
-This repository contains all of my research for the Stern Urbanization Project under the supervision of Professor Paul Romer.
+This repository contains part of my research for the Stern Urbanization Project under the supervision of Professor Paul Romer.
 
 Execute these commands on a clean instance (assuming Ubuntu 14.04):
 
