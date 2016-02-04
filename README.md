@@ -1,4 +1,5 @@
 This repository contains part of my research for the Stern Urbanization Project under the supervision of Professor Paul Romer.
+(Further notes to be posted about the Apache build and Amazon CLI tools)
 
 Execute these commands on a clean instance (assuming Ubuntu 14.04):
 
